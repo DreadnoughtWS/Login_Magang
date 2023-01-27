@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login_Magang</string>
+    <string name="Login">Login</string>
+    <string name="Hint_Email">Enter Your Email</string>
+    <string name="Hint_Pass">Enter Your Password</string>
+    <string name="lupa">Lupa Password?</string>
+</resources>

@@ -1,5 +1,7 @@
 # Login_Magang
 
+API yang digunakan untuk emulasi adalah 33
+
 Login page nomor 7:
 
 untuk text "lupa password?" text color diambil dari resources colors.xml dengan nama "purple_500" dan text string diambil dari strings.xml dengan nama "lupa".
